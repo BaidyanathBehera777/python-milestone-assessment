@@ -1,0 +1,6 @@
+Python
+SQL
+AI
+Playwright
+Testing
+Automation Testing
